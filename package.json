@@ -1,0 +1,27 @@
+{
+  "name": "javascript-exercises",
+  "version": "1.0.0",
+  "description": "Javascript exercises for Saturday",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikkihon/Javascript-Exercises.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "rikki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikkihon/Javascript-Exercises/issues"
+  },
+  "homepage": "https://github.com/Rikkihon/Javascript-Exercises#readme",
+  "dependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
